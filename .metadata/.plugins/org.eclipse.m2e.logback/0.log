@@ -211,3 +211,5 @@ org.eclipse.core.runtime.CoreException: Launch configuration ejercicio1 referenc
 2024-09-09 17:35:24,935 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\UNLP\OO1\ejer2\src\test\resources
 2024-09-09 18:28:48,023 [Worker-52: Launching ejer2] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\UNLP\OO1\ejer2\src\main\resources
 2024-09-09 18:28:48,144 [Worker-52: Launching ejer2] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\UNLP\OO1\ejer2\src\test\resources
+2024-09-09 18:38:07,149 [Worker-54: Launching ejer2] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\UNLP\OO1\ejer2\src\main\resources
+2024-09-09 18:38:07,168 [Worker-54: Launching ejer2] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\UNLP\OO1\ejer2\src\test\resources
