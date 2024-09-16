@@ -315,3 +315,28 @@ org.eclipse.core.runtime.CoreException: Launch configuration ejercicio1 referenc
 2024-09-16 16:57:35,459 [Worker-34: Launching java] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\UNLP\OO1\ejer3\src\test\resources
 2024-09-16 16:59:14,547 [Worker-39: Launching ejer3] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\UNLP\OO1\ejer3\src\main\resources
 2024-09-16 16:59:14,554 [Worker-39: Launching ejer3] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\UNLP\OO1\ejer3\src\test\resources
+2024-09-16 17:00:22,968 [Worker-39: Launching ejer3] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\UNLP\OO1\ejer3\src\main\resources
+2024-09-16 17:00:22,973 [Worker-39: Launching ejer3] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\UNLP\OO1\ejer3\src\test\resources
+2024-09-16 17:11:26,556 [Worker-40: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project ejer2 already exists
+2024-09-16 17:11:26,584 [Worker-40: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-09-16 17:19:41,059 [Worker-40: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.info.unlp:ejercicioDemo:0.0.1-SNAPSHOT @ C:\Users\Usuario\Desktop\UNLP\OO1\ejer4\pom.xml.
+2024-09-16 17:19:41,635 [Worker-40: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejer4/src/main/java
+2024-09-16 17:19:41,637 [Worker-40: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ejer4/src/main/resources
+2024-09-16 17:19:41,637 [Worker-40: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejer4/src/test/java
+2024-09-16 17:19:41,639 [Worker-40: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ejer4/src/test/resources
+2024-09-16 17:19:41,782 [Worker-40: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2024-09-16 17:19:42,801 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\UNLP\OO1\ejer4\src\main\resources
+2024-09-16 17:19:42,807 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\UNLP\OO1\ejer4\src\test\resources
+2024-09-16 17:20:36,361 [Worker-45: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.info.unlp:ejer4:0.0.1-SNAPSHOT @ C:\Users\Usuario\Desktop\UNLP\OO1\ejer4\pom.xml.
+2024-09-16 17:20:36,727 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\UNLP\OO1\ejer4\src\main\resources
+2024-09-16 17:20:36,730 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\UNLP\OO1\ejer4\src\test\resources
+2024-09-16 17:22:21,046 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\UNLP\OO1\ejer4\src\main\resources
+2024-09-16 17:22:21,055 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\UNLP\OO1\ejer4\src\test\resources
+2024-09-16 17:22:23,684 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\UNLP\OO1\ejer4\src\main\resources
+2024-09-16 17:22:23,688 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\UNLP\OO1\ejer4\src\test\resources
+2024-09-16 17:22:25,622 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\UNLP\OO1\ejer4\src\main\resources
+2024-09-16 17:22:25,626 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\UNLP\OO1\ejer4\src\test\resources
+2024-09-16 17:22:27,893 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\UNLP\OO1\ejer4\src\main\resources
+2024-09-16 17:22:27,896 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\UNLP\OO1\ejer4\src\test\resources
+2024-09-16 17:22:30,514 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\UNLP\OO1\ejer4\src\main\resources
+2024-09-16 17:22:30,520 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\UNLP\OO1\ejer4\src\test\resources
