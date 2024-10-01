@@ -21,6 +21,6 @@ public class Cuerpo3D {
 	}
 	
 	public double getSuperficieExterior() {
-		return 2 * (this.caraBasal.getArea()) + (this.caraBasal.getPerimetro()) * (this.altura);
+		return 2 * this.caraBasal.getArea() + this.caraBasal.getPerimetro() * this.altura;
 	}
 }
