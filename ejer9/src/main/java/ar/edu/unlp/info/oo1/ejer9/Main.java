@@ -3,7 +3,7 @@ package ar.edu.unlp.info.oo1.ejer9;
 public class Main {
 
 	public static void main(String[] args) {
-		CuentaCorriente cc = new CuentaCorriente(200);
+		CuentaCorriente cc = new CuentaCorriente();
 		cc.depositar(300);
 		System.out.println("Saldo cuenta corriente: " + cc.getSaldo() + " Descubierto: "+ cc.getDescubierto());
 		
